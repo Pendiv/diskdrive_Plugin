@@ -1,0 +1,48 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "disc:copper",
+        "model": {
+          "type": "minecraft:model",
+          "model": "disc:item/copper_throwing_disc"
+        }
+      },
+      {
+        "when": "disc:iron",
+        "model": {
+          "type": "minecraft:model",
+          "model": "disc:item/iron_throwing_disc"
+        }
+      },
+      {
+        "when": "disc:gold",
+        "model": {
+          "type": "minecraft:model",
+          "model": "disc:item/gold_throwing_disc"
+        }
+      },
+      {
+        "when": "disc:diamond",
+        "model": {
+          "type": "minecraft:model",
+          "model": "disc:item/diamond_throwing_disc"
+        }
+      },
+      {
+        "when": "disc:netherite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "disc:item/netherite_throwing_disc"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/music_disc_13"
+    }
+  }
+}

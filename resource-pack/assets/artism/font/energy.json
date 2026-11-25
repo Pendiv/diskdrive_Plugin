@@ -1,0 +1,103 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_0.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue100"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_1.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_2.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_3.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_4.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue104"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_5.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue105"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_6.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue106"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_7.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue107"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_8.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue108"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_9.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue109"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "artism:font/energy_10.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue10a"
+      ]
+    }
+  ]
+}

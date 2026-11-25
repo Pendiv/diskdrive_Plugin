@@ -1,0 +1,15 @@
+name: Disc
+version: '${version}'
+main: local.disc.DiscPlugin
+api-version: '26.3'
+bootstrapper: local.disc.DiscBootstrap
+permissions:
+  disc.give:
+    description: 投擲ディスクを配布する
+    default: op
+  disc.match.admin:
+    description: ディスク試合を管理する
+    default: op
+  disc.edit:
+    description: 特殊ブロックを設置する
+    default: op
